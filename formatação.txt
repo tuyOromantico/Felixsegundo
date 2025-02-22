@@ -1,0 +1,36 @@
+Conteúdo
+	imagem de fundo - (img/fundo.jpg)
+	tamanho do fundo - 100%
+	fixo
+
+Titulo 1
+	fonte - Verdana
+	tamanho da fonte - 26px
+	cor - #f90d70
+	negrito
+
+Titulo 2
+	fonte - Verdana
+	tamanho da fonte - 24px
+	cor - #fffa12
+	negrito
+
+
+Titulo 3
+	fonte - Verdana
+	tamanho da fonte - 16px
+	cor - #2c8ed7
+	negrito
+
+
+Parágrafo
+	fonte - Arial
+	tamanho da fonte - 16px
+	cor - #FFF
+
+Imagens
+	largura - 300px
+	altura - 200px
+	espessura da borda - 4px
+	Tipo da borda - Solida
+	Cor da Borda - #f90d70 / #fffa12 / #2c8ed7
